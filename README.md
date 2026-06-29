@@ -2,7 +2,7 @@
 [DACON][ref]: AI Agent Action Decision Prediction Challenge, AI Agent 행동(Action) 의사결정 예측 챌린지
 
 [ref]: https://dacon.io/competitions/official/236694/overview/description
----
+
 ## 📅 일정
 2026.07.01 ~ 2026.07.15 
 ---
@@ -12,16 +12,17 @@ Team A | 장동균(22), 이지윤(24)
 Team B | 김동준(22), 장문희(24)
 
 ### Team A
-  Task : YOLO Model
-    - YOLO v8, v11 모델의 전반적 이해를 위한 공부 진행
-    - 데이터 증강
-    - 성능 평가 지표 분석
+**Task : YOLO Model**
+- YOLO v8, v11 모델의 전반적 이해를 위한 공부 진행
+- 데이터 증강
+- 성능 평가 지표 분석
 
 ### Team B
-  Task : LLM Model, Qwen3
-    - Qwen 모델의 전반적 이해 및 추론 진행
-    - Qwen 성능 평가
-    - Harness Engineering 학습 및 활용방안 구성
+**Task : LLM Model, Qwen3**
+- Qwen 모델의 전반적 이해 및 추론 진행
+- Qwen 성능 평가
+- Harness Engineering 학습 및 활용방안 구성
+-
 ---
 ## 목표
 1. 팀프로젝트 경험 : Github 실제 활용을 바탕으로 팀 프로젝트 진행
