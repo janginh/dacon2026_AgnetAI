@@ -1,7 +1,7 @@
 # DACON 2026_AgnetAI
-[DACON][ref] 
-[ref]:https://dacon.io/competitions/official/236694/overview/description
-: AI Agent Action Decision Prediction Challenge, AI Agent 행동(Action) 의사결정 예측 챌린지
+[DACON][ref]: AI Agent Action Decision Prediction Challenge, AI Agent 행동(Action) 의사결정 예측 챌린지
+
+[ref]: https://dacon.io/competitions/official/236694/overview/description
 ---
 ## 📅 일정
 2026.07.01 ~ 2026.07.15 
