@@ -25,7 +25,7 @@ Team B | 김동준(22), 장문희(24)
 
 
 ## 목표
-1. <br>팀프로젝트 경험</br> : Github 실제 활용을 바탕으로 팀 프로젝트 진행
-2. <br>Linux 환경의 이해</br> : Linux 환경의 모델 학습을 통한 CLI 환경 및 Linux 이해
-3. <br>AI 모델 활용</br> : YOLO, Qwen 등의 AI 모델 활용 능력 향상
-4. <br>AI Agent의 이해</br> : Harness Engineering 방식을 통해 AI 성능 향상을 위한 환경 구축
+1. **팀프로젝트 경험** : Github 실제 활용을 바탕으로 팀 프로젝트 진행
+2. **Linux 환경의 이해** : Linux 환경의 모델 학습을 통한 CLI 환경 및 Linux 이해
+3. **AI 모델 활용** : YOLO, Qwen 등의 AI 모델 활용 능력 향상
+4. **AI Agent의 이해** : Harness Engineering 방식을 통해 AI 성능 향상을 위한 환경 구축
