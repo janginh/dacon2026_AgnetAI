@@ -1,11 +1,12 @@
 # DACON 2026_AgnetAI
-DACON[ref] : AI Agent Action Decision Prediction Challenge, AI Agent 행동(Action) 의사결정 예측 챌린지
+[DACON][ref] 
 [ref]:https://dacon.io/competitions/official/236694/overview/description
-
-## 일정
+: AI Agent Action Decision Prediction Challenge, AI Agent 행동(Action) 의사결정 예측 챌린지
+---
+## 📅 일정
 2026.07.01 ~ 2026.07.15 
 ---
-## 참여인원
+## 👥 참여인원
 팀장 | 장인환 (21)
 Team A | 장동균(22), 이지윤(24)
 Team B | 김동준(22), 장문희(24)
